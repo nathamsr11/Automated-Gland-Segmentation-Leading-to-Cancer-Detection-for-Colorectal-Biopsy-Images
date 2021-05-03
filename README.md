@@ -11,4 +11,4 @@ the Deep Convolutional Neural network (CNN) to evaluate the malignancy of tumor.
 We used transfer learning technique to train AlexNet for classification. The dataset is taken from MCCAI GlaS challenge which contains total 165 
 images in which 80 are benign and 85 are malignant. Our algorithm is successful in classification of malignancy with an accuracy of 90.40, Sensitivity 89% 
 and Specificity of 91%. here is a copy of this project from a  from a Future of Information and Communication Conference 2019 San Francisco
-welcome to anyone want to contribute to this project thanks
+welcome to anyone want to contribute to this project 
